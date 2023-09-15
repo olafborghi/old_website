@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Olaf Borghi, MSc"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD Student in Psychology and Developmental Political Neuroscience in the Project 'Interdisciplinary Perspectives on the Politics of Adolescence & Democracy'"
+  bio              : "PhD Student in Psychology and Developmental Political Neuroscience"
   location         : "Royal Holloway, University of London"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5erGlKwAAAAJ&hl=de"
-  email            :
+  email            :  "olafborghi@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Olaf-Borghi"
   uri              :
   bitbucket        :
