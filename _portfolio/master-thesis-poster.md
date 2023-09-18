@@ -1,6 +1,6 @@
 ---
 title: "Modulation of the Action Observation Network – Investigating Action, Agent and Observer Factors in an fMRI Study"
-excerpt: "Master Thesis Poster: Modulation of the AON<br/><img src='/images/Borghi_AON_Poster_A0_portrait.png'>"
+excerpt: "Master Thesis Poster: Modulation of the AON<br/><img src='/images/Borghi_AON_Poster_A0_portrait.png' width="100" height="200">"
 collection: portfolio
 ---
 
