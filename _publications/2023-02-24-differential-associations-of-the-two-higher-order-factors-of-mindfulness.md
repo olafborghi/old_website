@@ -2,7 +2,7 @@
 title: "Differential associations of the two higher-order factors of mindfulness with trait empathy and the mediating role of emotional awareness"
 collection: publications
 permalink: /publication/differential-associations-of-two-higher-order-factors-of-mindfulness
-excerpt: 'This paper is about the cross-sectional relationship between two factors of mindfulness and empathy'
+excerpt: 'In this paper I investigated the cross-sectional relationship between two factors of mindfulness and empathy'
 date: 2023-02-24
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-023-30323-6'

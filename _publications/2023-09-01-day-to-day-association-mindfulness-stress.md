@@ -2,7 +2,7 @@
 title: "[Under Review] Day-to-Day Associations between Mindfulness and Perceived Stress: Insights from Random Intercept Cross-Lagged Panel Modeling"
 collection: publications
 permalink: /publication/day-to-day-association-mindfulness-stress
-excerpt: 'In this paper we investigated the longitudinal day-to-day relationship between mindfulness and perceived stress.'
+excerpt: 'In this paper I investigated the longitudinal day-to-day relationship between mindfulness and perceived stress.'
 date: 2023-09-01
 venue: 'Frontiers in Psychology'
 paperurl: 
