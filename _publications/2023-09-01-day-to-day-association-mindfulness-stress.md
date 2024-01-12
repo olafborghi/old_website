@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/day-to-day-association-mindfulness-stress
 excerpt: 'In this paper I investigated the longitudinal day-to-day relationship between mindfulness and perceived stress.'
 date: 2023-09-01
-venue: 'Frontiers in Psychology'
+venue: 
 paperurl: 
 citation: 
 ---
